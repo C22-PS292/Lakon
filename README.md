@@ -1,6 +1,6 @@
 
 # PROJECT CAPSTONE C22-PS292
-
+![Our Logo](https://raw.githubusercontent.com/Alstrometria/Lakon/main/Resource/Logo/Lakon.png)
 # LAKON
 
   
