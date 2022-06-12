@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/drawable-v24/bg_button.xml" value="0.137" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/drawable-v24/bg_button_disable.xml" value="0.137" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.129" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/drawable/ic_baseline_density_medium_24.xml" value="0.1" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/drawable/ic_capture.xml" value="0.129" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/drawable/ic_launcher_background.xml" value="0.129" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/drawable/ic_outline_image_24.xml" value="0.129" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/drawable/ic_outline_photo_camera_24.xml" value="0.129" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/drawable/ic_place_holder.xml" value="0.129" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/drawable/ic_switch_camera.xml" value="0.129" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/drawable/ic_toolbar.xml" value="0.129" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/layout/activity_camera.xml" value="0.12552083333333333" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/layout/activity_detail.xml" value="0.2" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/layout/activity_home.xml" value="0.152" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/layout/activity_list.xml" value="0.264" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/layout/activity_list_from_detail.xml" value="0.125" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/layout/activity_splash.xml" value="0.1265625" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/layout/activity_web.xml" value="0.125" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/layout/item_wayang.xml" value="0.2" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/menu/menu_detail.xml" value="0.125" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/menu/menu_list.xml" value="0.125" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/menu/menu_main.xml" value="0.12552083333333333" />
+        <entry key="..\:/Kuliah/Bangkit2022/Lakon/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1355" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

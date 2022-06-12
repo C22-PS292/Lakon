@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.HomeActivity">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:backgroundTint="?attr/colorPrimary">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.google.android.material.appbar.AppBarLayout
+                android:id="@+id/appBarLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fitsSystemWindows="true"
+                app:elevation="0dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <com.google.android.material.appbar.MaterialToolbar
+                    android:id="@+id/toolbar"
+                    android:layout_width="match_parent"
+                    android:layout_height="?attr/actionBarSize"
+                    android:backgroundTint="?attr/colorPrimary">
+
+                    <ImageView
+                        android:id="@+id/tv_header_title"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="start"
+                        android:src="@drawable/lakon"
+                        android:contentDescription="@string/app_name" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/app_name"
+                        android:fontFamily="@font/avenir"
+                        android:padding="5sp"
+                        android:textSize="23sp"
+                        android:textColor="?attr/colorSecondaryVariant"/>
+
+                </com.google.android.material.appbar.MaterialToolbar>
+
+            </com.google.android.material.appbar.AppBarLayout>
+
+            <ProgressBar
+                android:id="@+id/progress_bar"
+                style="?android:attr/progressBarStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:visibility="gone"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:visibility="visible" />
+
+            <ImageView
+                android:id="@+id/iv_preview"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="32dp"
+                android:layout_marginEnd="30dp"
+                android:layout_marginBottom="40dp"
+                android:contentDescription="@string/image_preview"
+                app:layout_constraintBottom_toTopOf="@+id/nama"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/appBarLayout"
+                app:srcCompat="@drawable/ic_place_holder" />
+
+            <ImageButton
+                android:id="@+id/imageButton_cam"
+                style="@android:style/Widget.Holo.ImageButton"
+                android:layout_width="110dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="32dp"
+                android:layout_weight="0.5"
+                android:backgroundTint="?attr/colorOnSecondary"
+                android:contentDescription="@string/button_cam"
+                android:padding="7dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ic_outline_photo_camera_24"
+                app:layout_constraintBottom_toTopOf="@+id/btn_scan"
+                app:layout_constraintEnd_toStartOf="@id/imageButton_gallery"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/nama" />
+
+            <ImageButton
+                android:id="@+id/imageButton_gallery"
+                style="@android:style/Widget.Holo.ImageButton"
+                android:layout_width="110dp"
+                android:layout_height="50dp"
+                android:layout_weight="0.5"
+                android:backgroundTint="?attr/colorOnSecondary"
+                android:contentDescription="@string/button_gallery"
+                android:padding="7dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ic_outline_image_24"
+                app:layout_constraintBottom_toBottomOf="@+id/imageButton_cam"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@id/imageButton_cam"
+                app:layout_constraintTop_toTopOf="@+id/imageButton_cam" />
+
+            <Button
+                android:id="@+id/btn_scan"
+                style="@style/Widget.MaterialComponents.ExtendedFloatingActionButton"
+                android:layout_width="275dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="65dp"
+                android:backgroundTint="?attr/colorOnSecondary"
+                android:fontFamily="@font/aladin_reg"
+                android:text="@string/scan"
+                android:textColor="?attr/colorPrimary"
+                android:textSize="16sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="@+id/imageButton_gallery"
+                app:layout_constraintStart_toStartOf="@+id/imageButton_cam"
+                app:layout_constraintTop_toBottomOf="@id/imageButton_cam" />
+
+            <TextView
+                android:id="@+id/nama"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:fontFamily="@font/aladin_reg"
+                android:gravity="end"
+                android:text="@string/app"
+                android:textColor="@color/orange_2"
+                android:textSize="24sp"
+                app:layout_constraintBottom_toTopOf="@+id/imageButton_cam"
+                app:layout_constraintEnd_toEndOf="@+id/btn_scan"
+                app:layout_constraintStart_toStartOf="@+id/btn_scan"
+                app:layout_constraintTop_toBottomOf="@+id/progress_bar" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

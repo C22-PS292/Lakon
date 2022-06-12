@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "791700040851",
+    "project_id": "lakon-capstone",
+    "storage_bucket": "lakon-capstone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791700040851:android:317fd6dfc84560e2493166",
+        "android_client_info": {
+          "package_name": "com.bangkit2022.capstone.lakon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791700040851-n6vnrflqidtjhu57jtsddph3963l2itr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAudeA3O7JBbRDbrTtssbQnv4ZtfMLBhmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791700040851-n6vnrflqidtjhu57jtsddph3963l2itr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791700040851:android:26f0c956aa10b086493166",
+        "android_client_info": {
+          "package_name": "com.dicoding.android.lakon20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791700040851-i2svbjrgic8gqjlfpj4obhfgkd3h9o4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dicoding.android.lakon20",
+            "certificate_hash": "4f77a2ad2ad4244672534b0b520ba2cf149b042a"
+          }
+        },
+        {
+          "client_id": "791700040851-n6vnrflqidtjhu57jtsddph3963l2itr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAudeA3O7JBbRDbrTtssbQnv4ZtfMLBhmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791700040851-n6vnrflqidtjhu57jtsddph3963l2itr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791700040851:android:4126002205ae0e86493166",
+        "android_client_info": {
+          "package_name": "com.lakonstudio.lakon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791700040851-n6vnrflqidtjhu57jtsddph3963l2itr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAudeA3O7JBbRDbrTtssbQnv4ZtfMLBhmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791700040851-n6vnrflqidtjhu57jtsddph3963l2itr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
