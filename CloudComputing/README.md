@@ -92,7 +92,9 @@ At google cloud console go to Cloud Storage.
 
 By default there are two bucket created by Firestore. Choose the bucket without 'staging' name then create new folder “Wayang Images” for uploaded Wayang images data to be accessible online.
 
-For Permissions Images Go to console.firebase.google.com, choose the project and go to Build > Storage in sidebar
+**For Permissions Images** 
+
+Go to console.firebase.google.com, choose the project and go to Build > Storage in sidebar
 After that go to Rules column.
 
 Here, we changed the permissions to access data (both read and write without Authentication), so the code looks like this:
