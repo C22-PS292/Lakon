@@ -12,6 +12,18 @@ The rich cultural diversity of Indonesia has been a source of pride of ours sinc
 In this era of globalization, many of shadow puppet characters in Indonesia tend to be less well known and even forgotten among the young generation. From this statement, several problems emerged, including "Why are some characters of wayang kulit characters difficult to recognize and memorize by children?" and "How can the role of information technology support the creation of an application to introduce some wayang kulit characters in Indonesia?" It is from this problem that we decided to take this to introduce some wayang kulit characters to children in terms of color, form of wayang and introduce some stories related to wayang kulit characters in the application we made, as well as add an educational game about wayang characters especially on the introduction of shadow puppet characters in Indonesia that can be used and operated easily by children so that the wayang kulit characters can be recognized, understood, and can be preserved for the future both in terms of the existing characters and the actual form of the shadow puppets.
 
 #
+## Application Overview
+
+<p float="left">
+  <img src="https://github.com/C22-PS292/Lakon/blob/main/Resource/Mockup/loading-page.png" width="250" height="500">
+  <img src="https://github.com/C22-PS292/Lakon/blob/main/Resource/Mockup/dashboard-page.png" width="250" height="500">
+  <img src="https://github.com/C22-PS292/Lakon/blob/main/Resource/Mockup/scanning-page.png" width="250" height="500">
+  <img src="https://github.com/C22-PS292/Lakon/blob/main/Resource/Mockup/scanning-result-page.png" width="250" height="500">
+  <img src="https://github.com/C22-PS292/Lakon/blob/main/Resource/Mockup/wayang-detail-page.png" width="250" height="500">
+  <img src="https://github.com/C22-PS292/Lakon/blob/main/Resource/Mockup/wayang-list-page.png" width="250" height="500">
+</p>
+
+#
 ## Team Member
 
 | Member | Bangkit ID | Path | Role | Contacts | University |
