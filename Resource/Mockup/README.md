@@ -1,1 +1,1 @@
-This folder consist overview oage of the page
+This folder consist overview page of the app
