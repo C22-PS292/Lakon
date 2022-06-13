@@ -14,20 +14,29 @@ In this era of globalization, many of shadow puppet characters in Indonesia tend
 #
 ## Team Member
 
-#### Machine Learning :
+| Member | Bangkit ID | Path | Role | Contacts | University |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| Muhamad Haykal Hanif Gifari Adi | M2004F0281 | Machine Learning | Project Manager, Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/haykal-hanif-97a28818a/) or [Github](https://github.com/haykalbangkit) | Institut Teknologi Sepuluh Nopember |
+| Immanuel Mayerd | M2004F0260 | Machine Learning | Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/immanuel-mayerd/) or [Github](https://github.com/ninetwofive) | Institut Teknologi Sepuluh Nopember |
+| Revi Fernanda Aditya Marwanto | M7004G0148 | Machine Learning | Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/revi-fernanda-a58329213/) or [Github](https://github.com/Alstrometria) | Institut Teknologi Sepuluh Nopember |
+| Eric Firmansyah Sumanto | A2332G2861 | Mobile Development | Android Mobile Developer | [LinkedIn](https://www.linkedin.com/in/eric-firmansyah-573500172/) or [Github](https://github.com/ericfrmnsyh) | Universitas Trunojoyo Madura |
+| Muhammad Ali Yusuf | C2332G2862 | Cloud Computing | DevOps Engineer | [LinkedIn](https://www.linkedin.com/in/muhammad-ali-yusuf-7623b91a3/) or [Github](https://github.com/muhammadaliyusuf) | Universitas Trunojoyo Madura |
+| Nur Wachid Hidayatulloh | C2332F2858 | Cloud Computing | DevOps Engineer | [LinkedIn](https://www.linkedin.com/in/nur-wachid-71b611221/) or [Github](https://github.com/NurWachid1) | Universitas Trunojoyo Madura |
 
- - M2004F0260 - [Immanuel Mayerd](https://www.linkedin.com/in/immanuel-mayerd/)  
- - M2004F0281 - [Muhamad Haykal Hanif Gifari Adi](https://www.linkedin.com/in/haykal-hanif-97a28818a/)   
- - M7004G0148 - [Revi Fernanda Aditya Marwanto](https://www.linkedin.com/in/revi-fernanda-a58329213/)
+#
+## Project Mentors
 
-#### Cloud Computing :
+- [Rizal Muttaqin](https://www.linkedin.com/in/rizal-muttaqin-3197a7103/) - Software Engineer at Azura Labs
+- [Muhammad Verly](https://www.linkedin.com/in/verlymv/) - Software Engineer at Tokopedia
 
- - C2332G2862 - [Muhammad Ali Yusuf](https://www.linkedin.com/in/muhammad-ali-yusuf-7623b91a3/)
- - C2332F2858 - [Nur Wachid Hidayatulloh](https://www.linkedin.com/in/nur-wachid-71b611221/)
+#
+## Timeline
 
-#### Mobile Development :
-
- - A2332G2861 - [Eric Firmansyah Sumanto](https://www.linkedin.com/in/eric-firmansyah-573500172/)
+| Team | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ML | Data Preparation | Data Collection & Labeling | Model Building | Train and Deploy Model | Integrating |
+| MD | Prototyping Design | UI/UX Design | App Development | App Testing | Integrating |
+| CC | - | Build Backend System | API Development | Deploy to Google Cloud Platform | Integrating |
 
 #
 ## Disclaimer
